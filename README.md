@@ -19,22 +19,6 @@ This project includes a trained ML model, dataset, and a simple user-friendly in
 - 📒 **Jupyter Notebook** for model training & experiments
 - ⚡ Lightweight and easy to run locally
 
----
-
-## 📂 Project Structure
-Health_Monitoring-main/
-├── app.py                         # Main application file (Flask app)
-├── disease_diagnosis.csv          # Dataset
-├── health.jpg                     # UI image
-├── health_monitoring.pkl          # Trained ML model
-├── health_monitoring_model.ipynb  # Notebook for training & experiments
-└── requirements.txt               # Dependencies
-
----
-
-
----
-
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
@@ -55,9 +39,7 @@ pip install -r requirements.txt
 
 
 ---
-
----
----
+```
 <p align="center">
   Made with ❤️ in Python <br><br>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
@@ -65,4 +47,3 @@ pip install -r requirements.txt
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Machine Learning"/>
   <img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="Data Science"/>
 </p>
-
