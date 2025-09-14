@@ -21,24 +21,9 @@ This project includes a trained ML model, dataset, and a simple user-friendly in
 
 ## ⚙️ Installation
 
-### 1️⃣ Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/your-username/Health_Monitoring.git
-cd Health_Monitoring-main
-
-python -m venv venv
-# Activate it
-# On Windows
-venv\Scripts\activate
-# On Mac/Linux
-source venv/bin/activate
-
-pip install -r requirements.txt
-
-**python app.py**
-
-
----
 ```
 <p align="center">
   Made with ❤️ in Python <br><br>
