@@ -1,7 +1,7 @@
 # 🩺 Health Monitoring System
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![Flask](https://img.shields.io/badge/Framework-Flask-lightgrey?logo=flask)
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red?logo=streamlit)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
