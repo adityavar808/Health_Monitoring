@@ -23,12 +23,12 @@ This project includes a trained ML model, dataset, and a simple user-friendly in
 
 ## 📂 Project Structure
 Health_Monitoring-main/
-│── app.py # Main application file (Flask app)
-│── disease_diagnosis.csv # Dataset
-│── health.jpg # UI image
-│── health_monitoring.pkl # Trained ML model
-│── health_monitoring_model.ipynb # Notebook for training & experiments
-│── requirements.txt # Dependencies
+├── app.py                         # Main application file (Flask app)
+├── disease_diagnosis.csv          # Dataset
+├── health.jpg                     # UI image
+├── health_monitoring.pkl          # Trained ML model
+├── health_monitoring_model.ipynb  # Notebook for training & experiments
+└── requirements.txt               # Dependencies
 
 ---
 
